@@ -1,0 +1,13 @@
+.picture{
+  width: 375rpx;
+  height: 375rpx;
+  border-radius: 50%;
+}
+
+.container{
+  align-items: center;
+  height:100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

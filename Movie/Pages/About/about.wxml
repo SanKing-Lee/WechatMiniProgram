@@ -1,1 +1,6 @@
-<text>Hello World</text>
+<view class = "container">
+<image class = "picture" src= '/images/movie.jpg'></image>
+<text>电影周周看</text>
+<text>我每周推荐一部好电影</text>
+<text>我的微信：lx18883873548</text>
+</view>
